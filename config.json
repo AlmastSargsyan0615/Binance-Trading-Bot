@@ -1,0 +1,10 @@
+{
+    "trading_params": {
+        "symbol": "BTCUSDT",
+        "leverage": "5",
+        "order_quantity_pct": "10",
+        "take_profit_price": "20000",
+        "stop_loss_price": "18500",
+        "limit_price": "18000"
+    }
+}
